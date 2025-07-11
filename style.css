@@ -15,11 +15,24 @@
   font-weight: bold;
   font-size: 16px; 
   color: white; 
+  border: none;
   padding: 12px 36px;
   border-radius: 10px;
 }
+.header{
+    background-image: url('/B12A01-landing-launchpad/Assets/Hero-bg.png');
+    
+   
+}
+.banner{
+    text-align: center;
+     font-weight: 905;
+    font-size: 65px;
+  
+   
 
 
+}
 
 
 nav{
@@ -34,4 +47,26 @@ nav{
     font-weight: bold;
     font-size: 34px;
     color: #4E47FF;
+}
+.section-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.section-description{
+    font-size: 24px;
+    font-weight: 200;
+    color: #717075;
+}
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 129px;
+   
+}
+.img2{
+    border-radius: 42px;
+    padding: 10px 36px;
+    border: none;
 }
