@@ -75,3 +75,164 @@ nav{
 .img2 img{
     border-radius: 42px;
 }
+.about2{
+    margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9ff;
+}
+.stats-container {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: #ebebff;
+  border-radius: 20px;
+  padding: 40px 20px;
+  text-align: center;
+  color: #000;
+}
+
+.stats-container h2 {
+  margin-bottom: 30px;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  margin: 10px 20px;
+}
+
+.stat-number {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #4a3aff;
+}
+
+.stat-label {
+  display: block;
+  margin-top: 5px;
+  color: #666;
+  font-size: 0.95rem;
+}
+.about3{
+   margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f4fc;
+}
+.testimonials-section {
+  max-width: 1100px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.testimonials-section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+.testimonials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.testimonial-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  width: 300px;
+  text-align: left;
+}
+
+.stars {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.stars img {
+  width: 20px;
+  height: 20px;
+}
+
+.testimonial-card h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.testimonial-card p {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.reviewer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.reviewer img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.reviewer-info {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.reviewer-info .name {
+  display: block;
+  font-weight: 600;
+  color: #333;
+}
+.about4{
+    margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4eeff;
+}
+.focus-section {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 20px;
+  text-align: center;
+}
+.btn-primary :hover {
+  background-color: #4338ca;
+}
+.focus-content h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.focus-content p {
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+.focus-image {
+  margin-top: 30px;
+}
+
+.focus-image img {
+  max-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
