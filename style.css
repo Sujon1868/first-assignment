@@ -27,14 +27,12 @@
 }
 .banner{
     text-align: center;
-     font-weight: 905;
-    font-size: 65px;
-  
-   
-
-
+    
 }
-
+.banner-title{
+  font-weight: bold;
+    font-size:65px;
+}
 
 nav{
     display: flex;
